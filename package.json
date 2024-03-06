@@ -1,0 +1,25 @@
+{
+  "name": "com.shtif.dashvsextension",
+  "displayName": "Dash VS Extension",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Visual scripting extension for Dash Animation System.",
+  "author": {
+	"name": "Peter @sHTiF Stefcek",
+	"email": "pshtif@gmail.com"
+  },
+  "documentationUrl": "https://github.com/pshtif/Dash",
+  "changelogUrl": "https://github.com/pshtif/Dash/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/pshtif/Dash/blob/main/LICENSE",
+  "keywords": [ 
+	"package",
+	"unity",
+	"animation",
+	"editor"
+  ],
+  "dependencies": {
+	"com.teamsirenix.odinserializer": "2022.11.9",
+	"com.shtif.dashtween": "0.1.9",
+    "com.unity.visualscripting": "1.9.0"
+  }
+}
